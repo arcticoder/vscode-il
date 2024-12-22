@@ -1,24 +1,24 @@
 {
-    "name": "vscode-il",
-    "displayName": "IL",
+    "name": "vscode-ac-il",
+    "displayName": "acIL",
     "description": "IL Language support",
     "version": "0.0.2",
-    "publisher": "soltys",
+    "publisher": "arcticoder",
     "private": true,
     "author": {
-        "name": "Paweł Sołtysiak",
-        "email": "pawel+illanguage@soltysiak.it",
-        "url": "https://github.com/soltys/vscode-il"
+        "name": "arcticoder",
+        "email": "arcticoder@duck.com",
+        "url": "https://github.com/arcticoder"
     },
     "bugs": {
-        "url": "https://github.com/soltys/vscode-il/issues",
-        "email": "pawel+illanguage@soltysiak.it"
+        "url": "https://github.com/arcticoder/vscode-il/issues",
+        "email": "arcticoder@duck.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/soltys/vscode-il.git"
+        "url": "https://github.com/arcticoder/vscode-il.git"
     },
-    "homepage": "https://github.com/soltys/vscode-il/blob/master/README.md",
+    "homepage": "https://github.com/arcticoder/vscode-il/blob/master/README.md",
     "engines": {
         "vscode": "^1.5.0"
     },
