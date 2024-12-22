@@ -2,7 +2,7 @@
     "name": "vscode-il",
     "displayName": "IL",
     "description": "IL Language support",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "soltys",
     "private": true,
     "author": {

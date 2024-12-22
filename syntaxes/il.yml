@@ -52,4 +52,13 @@ patterns:
   - begin: //
     end: $
     name: comment.line.double-dash.il
-  
+  - begin: /\*
+    beginCaptures:
+      '0':
+        name: comment.block.il
+    end: \*/
+    endCaptures:
+      '0':
+        name: comment.block.il
+    name: comment.block.il
+
